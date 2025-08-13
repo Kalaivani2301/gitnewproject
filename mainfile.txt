@@ -1,2 +1,4 @@
 created first file
 sucessful after 
+
+Developed a robust safety application featuring an emergency button, real-time location sharing, user-friendly profiles, and a community-driven review system, prioritizing user experience and leveraging technology for enhanced safety awareness. Additionally, built a time series forecasting model using LSTM to predict vegetable prices by analyzing historical pricing data, seasonal trends, and weather patterns, enabling farmers and policymakers to make data-driven decisions for improved agricultural planning.
